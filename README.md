@@ -16,11 +16,20 @@
 
 ### 🛠️ Skills & Technologies
 
-- **Back-End:** Java, PHP, Node.js, Spring Boot, Laravel, C#, .NET
-- **Front-End:** JavaScript, React, React Native, Angular
-- **Databases:** MySQL, SQLServer, MongoDB, DynamoDB
-- **DevOps & Cloud:** AWS, Docker, Linux, Jenkins, Serverless, Git, Rest API
-- **Testing & Methodologies:** JUnit, Scrum
+- **Back-End:**  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+
+- **Front-End:**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+- **Databases:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+
+- **DevOps & Cloud:**  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-0A4E8C?style=flat&logo=serverless&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Rest API](https://img.shields.io/badge/REST%20API-25C2A0?style=flat&logo=api&logoColor=black)
+
+- **Testing & Methodologies:**  
+  ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-FF0000?style=flat&logo=scrum&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-4A4A4A?style=flat&logo=mockito&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 
 ## 🏅 Certifications
 
