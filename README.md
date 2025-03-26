@@ -13,7 +13,6 @@
 - 🚀 Passionate about **Back-End and Architecture**
 - 📚 Constantly learning new technologies and the digital world
 - 🏗️ Experienced in development with various technologies in the web and cloud ecosystem
-<br>
 
 ### 🛠️ Skills & Technologies
 
