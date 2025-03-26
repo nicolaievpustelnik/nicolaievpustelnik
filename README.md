@@ -22,7 +22,6 @@
 - **Databases:** MySQL, SQLServer, MongoDB, DynamoDB
 - **DevOps & Cloud:** AWS, Docker, Linux, Jenkins, Serverless, Git, Rest API
 - **Testing & Methodologies:** JUnit, Scrum
-<br>
 
 ## 🏅 Certifications
 
@@ -31,7 +30,6 @@
 
 - 🤖 **IBM Watsonx AI**  
   ![IBM Watsonx AI](https://img.shields.io/badge/IBM%20Watsonx%20AI-Certified-blue)
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
