@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/nbpustelnik">Nicolaiev</a> 👨🏻‍💻👋</h1>
+<h1 align="center"> <img src="assets/wave.gif" width="60px" style="margin-top: 10px;" /> Hello, I'm <a href="https://www.linkedin.com/in/nbpustelnik">Nicolaiev</a> 👨🏻‍💻</h1>
 </div>
 <img src="assets/banner.png">
 
@@ -14,7 +14,7 @@
 - 📚 Constantly learning new technologies and the digital world
 - 🏗️ Experienced in development with various technologies in the web and cloud ecosystem
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 - **Back-End:**  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
@@ -31,15 +31,23 @@
 - **Testing & Methodologies:**  
   ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-FF0000?style=flat&logo=scrum&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-4A4A4A?style=flat&logo=mockito&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 
-## 🏅 Certifications
+## 🏅 Certifications  
 
-- 🏆 **AWS Certified Cloud Practitioner**  
-  ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-Aws%20Certified-green)
+<div style="display: flex; gap: 10px;">
+  <div align="center">
+    <h3>🏆 AWS Certified Cloud Practitioner</h3>
+    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-Aws%20Certified-green"><br>
+    <img src="assets/aws.png" width="80">
+  </div>
+  
+  <div align="center">
+    <h3>🤖 IBM Watsonx AI</h3>
+    <img src="https://img.shields.io/badge/IBM%20Watsonx%20AI-Certified-blue"><br>
+    <img src="assets/ibm-ai.png" width="80">
+  </div>
+</div>
 
-- 🤖 **IBM Watsonx AI**  
-  ![IBM Watsonx AI](https://img.shields.io/badge/IBM%20Watsonx%20AI-Certified-blue)
-
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/nicolaievpustelnik">
@@ -47,3 +55,17 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicolaievpustelnik&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 📬 Contact Me  
+
+💬 Feel free to reach out to me on any of these platforms!  
+
+<a href="mailto:nicolaievbrito@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/nbpustelnik">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/nicolaievpustelnik">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
