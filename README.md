@@ -33,19 +33,22 @@
 
 ## 🏅 Certifications  
 
-<div style="display: flex; gap: 10px;">
-  <div align="center">
-    <h3>🏆 AWS Certified Cloud Practitioner</h3>
-    <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-Aws%20Certified-green"><br>
-    <img src="assets/aws.png" width="80">
-  </div>
-  
-  <div align="center">
-    <h3>🤖 IBM Watsonx AI</h3>
-    <img src="https://img.shields.io/badge/IBM%20Watsonx%20AI-Certified-blue"><br>
-    <img src="assets/ibm-ai.png" width="80">
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏆 AWS Certified Cloud Practitioner</h3>
+      <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-Aws%20Certified-green"><br>
+      <img src="assets/aws.png" width="80">
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 IBM Watsonx AI</h3>
+      <img src="https://img.shields.io/badge/IBM%20Watsonx%20AI-Certified-blue"><br>
+      <img src="assets/ibm-ai.png" width="80">
+    </td>
+  </tr>
+</table>
+
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
