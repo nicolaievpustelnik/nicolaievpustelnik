@@ -38,7 +38,7 @@
   </div>
 
   <div style="flex-shrink: 0;">
-    <img src="assets/gifcode.gif" width="450" style="float: right; margin-bottom: -150px;">
+    <img src="assets/gifcode.gif" width="300" style="float: right; margin-bottom: -150px;">
   </div>
 </div>
 
