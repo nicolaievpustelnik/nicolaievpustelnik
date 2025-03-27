@@ -17,9 +17,10 @@
 
 ## 🛠️ Skills & Technologies
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-  
+<table>
+  <tr>
+    <td>
+
 - **Back-End:**  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
@@ -35,14 +36,12 @@
 - **Testing & Methodologies:**  
   ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-FF0000?style=flat&logo=scrum&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-4A4A4A?style=flat&logo=mockito&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 
-  </div>
-
-  <div style="flex-shrink: 0;">
-    <img src="assets/gifcode.gif" width="300" style="float: right; margin-bottom: -150px;">
-  </div>
-</div>
-
-
+    </td>
+    <td align="center">
+      <img src="assets/gifcode.gif" width="300">
+    </td>
+  </tr>
+</table>
 
 ## 🏅 Certifications  
 
